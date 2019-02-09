@@ -1,0 +1,6 @@
+﻿  trie.cpp
+c:\users\12mel\desktop\assignment\assignment\assignment\trie.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\12mel\desktop\assignment\assignment\assignment\trie.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\12mel\desktop\assignment\assignment\assignment\trie.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\12mel\desktop\assignment\assignment\assignment\trie.cpp(185): warning C4018: '<': signed/unsigned mismatch
+  Assignment.vcxproj -> C:\Users\12mel\Desktop\Assignment\Assignment\Debug\Assignment.exe
